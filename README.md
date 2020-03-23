@@ -1,1 +1,1 @@
-# linear-regression-advertising-dataset
+# linear-regression-repository
